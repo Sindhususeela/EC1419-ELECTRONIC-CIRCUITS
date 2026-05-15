@@ -12,6 +12,7 @@
 <img width="831" height="356" alt="image" src="https://github.com/user-attachments/assets/867e75f5-43f2-408f-b6fb-ed6b909db367" />
 
 
+
 ## CIRCUIT DIAGRAM
 
 
