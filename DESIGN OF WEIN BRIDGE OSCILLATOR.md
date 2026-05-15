@@ -13,13 +13,9 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
-
 ## Graph
+<img width="1600" height="379" alt="image" src="https://github.com/user-attachments/assets/73bfb3fb-c7c4-4a82-b324-642d981e3700" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
-
-
-Theoritical Frequency of Oscillation =
